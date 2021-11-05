@@ -1,7 +1,6 @@
 # pag\[inate\]
 
-Allows you to paginate through a list of lines, which can be received
-from a file or piped in.
+Allows you to paginate through a list of lines
 
 ## Usage
 
