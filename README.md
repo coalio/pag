@@ -35,7 +35,7 @@ No.
 
 The reason for this is not that I am lazy (I am lazy), but because it's a design decision. Also not my decision, but of the Unix standard. Pipelines stream the output (std::cout) to the input of the following program (std::cin). This means `cin` only listens to the pipe, therefore rendering terminal interaction unusable.
 
-It is technically possible to use `pag` with pipes, but it's not recommended, and it's not even possible without re-opening the terminal input device (tty or CONIN$), but still represents a bad design decision.
+It is technically possible to use `pag` with pipes, but it's not recommended, and it's not even possible without re-opening the terminal input device (tty or CONIN$).
 
 If you wish to read the output of a process in `pag`, you can use `>` to write the output to a file and then use `pag` to read the file.
 
