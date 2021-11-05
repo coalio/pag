@@ -16,9 +16,13 @@ Options:
 ```
 
 `-h [--help]` will display the help message.
+
 `-m [--maxlines] <lines>` will set how many lines per page will be displayed (default 10).
+
 `-s [--startline] <line>` will set the line to start from (default 0).
+
 `-e [--endline] <line>` will set the line to end at (default -1 | last line).
+
 `-l [--maxlength] <length>` will set the max length of the line (default -1 | end of line).
 
 ## Build
