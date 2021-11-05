@@ -29,7 +29,7 @@ Options:
 
 To compile this utility, you can simply run `make`.
 
-## Can I use pipe with this?
+## Can I use pipes with this?
 
 No.
 
