@@ -25,9 +25,9 @@ Options:
 
 `-l [--maxlength] <length>` will set the max length of the line (default -1 | end of line).
 
-## Build
+## Install
 
-To compile this utility, you can simply run `make`.
+To compile this utility, you can simply run `make`. After compiling, you can isntall it using `sudo make install`.
 
 ## Can I use pipes with this?
 
