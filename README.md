@@ -27,7 +27,7 @@ Options:
 
 ## Install
 
-To compile this utility, you can simply run `make`. After compiling, you can isntall it using `sudo make install`.
+To compile this utility, you can simply run `make`. After compiling, you can install it using `sudo make install`.
 
 ## Can I use pipes with this?
 
